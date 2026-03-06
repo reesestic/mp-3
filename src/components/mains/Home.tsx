@@ -39,7 +39,7 @@ export default function Home() {
             <h1>Home Page</h1>
 
             <Introduction>
-                <img src="/../../public/headshot.jpg" alt="My headshot"/>
+                <img src="/headshot.jpg" alt="My headshot"/>
                 <BioParagraph> My name is Reese Stichter, and I am a Junior studying Computer Science at Boston
                     University!
                     I really enjoy the Web Development/Software Engineering side of Computer Science,
