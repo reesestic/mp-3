@@ -53,13 +53,19 @@ const Inputs = styled.div`
     display: flex;
     justify-content: center;
     gap: 1rem;
+    width: 90%;
+    margin: auto;
+    flex-wrap: wrap;
 `;
 
 const StyledInput = styled.input`
-    width: 120px;
+    //width: 120px;
     background-color: #05204A;
     color: white;
     padding: 0.5rem;
+    font-size: calc(2px + 1vw);
+    width: 20%;
+
 `;
 
 const StyledButton = styled.button`
@@ -68,15 +74,14 @@ const StyledButton = styled.button`
     margin: 0.5rem;
     padding: 0.5rem 1rem;
     border: none;
-    cursor: pointer;
 `;
 
 const StyledLabel = styled.label`
-        font-size: calc(2px + 1.5vw);
-        padding: 2%;
-        border: 2px solid #05204A;
-        background-color: #6A849F;
-        color: white;
+    font-size: calc(2px + 1vw);
+    padding: 2%;
+    border: 2px solid #05204A;
+    background-color: #6A849F;
+    color: white;
 `;
 
 export default function Projects() {
