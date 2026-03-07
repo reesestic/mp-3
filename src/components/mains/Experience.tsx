@@ -43,14 +43,14 @@ export default function Experience() {
 
             <ExperienceWrapper>
                 <ExperienceTitle>BU Bunion & Pinky Toe Website Developer</ExperienceTitle>
-                <ExperienceImage src="/public/bunion.png" alt="Bunion Boston University Logo"/>
+                <ExperienceImage src="/bunion.png" alt="Bunion Boston University Logo"/>
                 <h4>I am newly helping as the Website Developer for the Bunion Newspaper.
                     I manage the Squarespace web layout and ensure the website is in good form.</h4>
             </ExperienceWrapper>
 
             <ExperienceWrapper>
                 <ExperienceTitle>BU Spark! Initiative Techonlogy Innovator</ExperienceTitle>
-                <ExperienceImage src="/public/spark.png" alt="BU Spark! Logo"/>
+                <ExperienceImage src="/spark.png" alt="BU Spark! Logo"/>
                 <h4> I am currently in the XC475 Fellowship working on a project with 3 of my good friends.
                     We are building a productivity app where we create schedules, atomize tasks and boost accountability
                     for users.</h4>
@@ -58,7 +58,7 @@ export default function Experience() {
 
             <ExperienceWrapper>
                 <ExperienceTitle>Clemson Robot Researcher</ExperienceTitle>
-                <ExperienceImage src="/public/clemson-logo.png" alt="Clemson University Logo"/>
+                <ExperienceImage src="/clemson-logo.png" alt="Clemson University Logo"/>
                 <h4>At Clemson, I helped tune parameters in a large language model system that did image classification.
                     I changed weights and tunings in files to boost accuracy by 10% through exeuction of the training
                     model.</h4>
